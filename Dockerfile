@@ -1,5 +1,5 @@
 FROM python:2.7.14
-MAINTAINER Chris Kretler "ckretler@umich.edu"
+MAINTAINER Jeff Cousineau "cousinea@umich.edu"
 
 RUN apt-get update -y
 
